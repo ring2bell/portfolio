@@ -1,0 +1,9 @@
+
+/*=======막대그래프=======  */
+.progress_left {margin-right: 100px;}
+.progress-bar{position: relative; width: 300px; height: 3px;margin: 3em auto; border: 1px solid #d9d9d9; background: #d9d9d9;}
+.progress-bar .skill{position: absolute; top: -25px;}
+.progress-bar .bar{position: absolute; left: 0; top: 0; bottom: 0; width: 0;background: #111;}
+.progress-bar .rate{position: absolute; top: -33px; right: 15px; bottom: 0; line-height: 30px; font-size: 1em; color: #111;}
+.content{height: 800px; font-size: 3em;}
+/*=======//막대그래프=======  */

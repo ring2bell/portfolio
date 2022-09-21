@@ -1,7 +1,7 @@
 echo # portfolio  README.md
 git init
 git add README.md
-git commit -m 두번째 commit
+git commit -m 4번째 commit
 git branch -M main
 git remote add origin httpsgithub.comring2bellportfolio.git
 git push -u origin main
