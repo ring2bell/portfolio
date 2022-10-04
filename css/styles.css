@@ -1,5 +1,33 @@
+#header .header_box{width: 310px; margin: auto; padding-top: 120px;}
+#header .header_box h1{position: relative; top: 50px; left: -18px;}
+#header .header_box .logo{margin-bottom: 70px; font-size: 50px; font-weight: bold;}
+#header .header_box ul li{margin-bottom: 15px;}
+#header .header_box ul li a {font-size: 15px; font-weight: 500; color: #767676; line-height: 2em;}
+#header .header_box ul li a:hover{color: #000000;}
+#header .header_box p{font-size: 15px; padding-top: 200px; color: #999999;}
+#header .header_box p strong{color: #767676;}
+/*=======//header=======  */
+.cont_header .box{width: 75px; height: 40px; background: #FDC605;}
+.cont_header .box p{text-align: center; font-size: 12px; line-height: 40px; color: #333; font-weight: 600;}
+.cont_header h2{margin-left: 10px; margin-top: 25px; font-size: 30px; color: #000000; font-weight: 800;}
+/*=======//.cont_header=======  */
+.contant_1 .my_img{width: 100%; height: 400px; background:#FDC605; opacity: 70%; border-radius: 101px; margin-top: 120px;}
+.contant_1 .my_img img{opacity: 1; z-index: 2;}
+.contant_1 h3{margin-top: 50px; font-size: 22px; font-weight: 700;}
+.contant_1 p{margin-top: 20px; font-size: 15px; color:#767676; margin-bottom: 30px;}
+.contant_1 .txt_box{font-size: 15px; font-weight: 500; color: #767676;}
+.contant_1 .txt_box h4{margin-top: 30px; font-size: 15px; }
+.contant_1 .txt_box p{line-height: 2em;}
+.contant_1 .infor ul{width: 480px; height: 150px;}
+.contant_1 .infor ul li:first-child{padding-top: 20px;}
+.contant_1 .infor ul li{margin-top: 15px; color: #000000; font-weight: 700;}
+.contant_1 .infor ul li span{padding-left: 60px; color: #767676;}
+
+
+
 
 /*=======막대그래프=======  */
+.animation{padding-top: 50px;}
 .progress_left {margin-right: 100px;}
 .progress-bar{position: relative; width: 300px; height: 3px;margin: 3em auto; border: 1px solid #d9d9d9; background: #d9d9d9;}
 .progress-bar .skill{position: absolute; top: -25px;}
