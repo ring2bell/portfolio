@@ -90,6 +90,11 @@
 .contant_2 hr { border-width: 0.5px; } 
 
 /*=======//contant_2======= */
+.contant_3 .project1 .mokup { position: relative; width: 640px; margin: auto; top: 60px; } 
+
+.contant_3 .project1 .mokup .project_1 { position: absolute; z-index: 1; top: 16px; left: 17px; } 
+
+.contant_3 .project1.mokup img { position: absolute; } 
 
 .contant_3 .project_name { margin-top: 100px; } 
 
@@ -103,7 +108,11 @@
 
 .contant_3 .project_info_top .info_box { margin-left: 7px; width: 305px; height: 180px; border-left: 1px solid #767676; margin-bottom: 20px; } 
 
-.contant_3 .project2 .project_info_top .info_box:last-child { margin-left: 16.5px; } 
+.contant_3 .project1 .project_info_top .info_box { margin-left: 138px; } 
+
+.contant_3 .project2 .project_info_top .info_box:first-child { margin-left: 149px; } 
+
+.contant_3 .project2 .project_info_top .info_box:last-child { margin-left: 149px; } 
 
 .contant_3 .project_info_top .info_box li:first-child { margin-top: 30px; } 
 
@@ -159,6 +168,3 @@
 #footer .foot_logo:hover { -webkit-animation: shake-horizontal 1s cubic-bezier(0.455, 0.030, 0.515, 0.955) both; animation: shake-horizontal 1s cubic-bezier(0.455, 0.030, 0.515, 0.955) both; } 
 
 #footer .foot_info:last-child { margin-left: 50px; } 
-
-
-
