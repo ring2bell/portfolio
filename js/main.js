@@ -1,3 +1,5 @@
+
+
 $(function(){
     const progressBox=$('.progress-bar')
     // 스크롤 지정 하기 위해 상수 선언
@@ -48,3 +50,4 @@ $(function(){
         })
 }
 })
+
