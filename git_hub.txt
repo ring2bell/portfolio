@@ -2,5 +2,5 @@ echo # portfolio  README.md
 git init
 ------------
 git add .
-git commit -m "3번째 커밋"
+git commit -m "a태그 및 버튼수정"
 git push origin main
