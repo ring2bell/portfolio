@@ -108,13 +108,19 @@
 
 .contant_3 .project_info_top .left { width: 250px; margin-top: 25px; } 
 
+.contant_3 .project2 .project_info_top .left{margin-top: 5px;}
+
+.contant_3 .project2 .project_info_top .right{margin-top: 5px;}
+
 .contant_3 .project_info_top .right {margin-top: 25px;}
+
+.contant_3 .project_info_top:last-child{margin-bottom: 10px;}
 
 .contant_3 .project_info_top .info_box { margin-left: 7px; width: 305px; height: 180px; border-left: 1px solid #767676; margin-bottom: 20px; } 
 
 .contant_3 .project1 .project_info_top .info_box { margin-left: 210px; } 
 
-.contant_3 .project2 .project_info_top .info_box:first-child { margin-left: 14ㅊ9px; } 
+.contant_3 .project2 .project_info_top .info_box:first-child { margin-left: 149px; } 
 
 .contant_3 .project2 .project_info_top .info_box:last-child { margin-left: 191px; } 
 
