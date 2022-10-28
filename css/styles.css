@@ -54,7 +54,9 @@
 
 .contant_1 .btn_box { position: relative; bottom: 40px; } 
 
-.contant_1 .btn_box li { display: inline-block; text-align: center; width: 150px; height: 40px; background: #FDC605; } 
+.contant_1 .btn_box li { display: inline-block; text-align: center; width: 150px; height: 40px; background: #FDC605; margin-right: 20px;} 
+
+.contant_1 .btn_box li:last-child{margin-right: 0;}
 
 .contant_1 .btn_box li:hover{transition: 0.3s; box-shadow: rgba(0, 0, 0, 0.24) 0px 5px 10px;}
 
@@ -165,6 +167,12 @@
 .contant_3 .project3 .info_top ul li { font-size: 18px; margin-bottom: 25px; color: #222; } 
 
 .contant_3 .project3 .info_top .left { width: 200px; } 
+
+.contant_3 .project3 .info_top .right2{width: 250px; height: 115px; border-left: 1px solid #767676;}
+
+.contant_3 .project3 .info_top .right2 li{ font-size: 16px; margin-left: 40px; width: 173px; height: 42px; line-height: 42px; text-align: center; background: #FDC605; margin-bottom: 25px; color: #333; font-weight: 600;}
+
+.contant_3 .project3 .info_top .right2 li:hover{transition: 0.3s; box-shadow: rgba(0, 0, 0, 0.24) 0px 5px 10px;}
 
 .contant_3 .project3 .info_story h3 { font-size: 28px; color: #222; font-weight: 600; margin-top: 25px; margin-bottom: 35px; } 
 
