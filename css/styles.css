@@ -181,9 +181,9 @@
 /*=======//contant_3 ======= */
 #footer .foot_info ul { margin-top: 80px; } 
 
-#footer .foot_info ul li { margin-bottom: 250px; font-size: 18px; font-weight: 600; color: #000000; } 
+#footer .foot_info ul li { margin-bottom: 250px; font-size: 18px; font-weight: 600; color: #000000; padding-right: 60px; } 
 
-#footer .foot_info ul li span { margin-left: 50px; color: #767676; } 
+#footer .foot_info ul li span { margin-left: 20px; color: #767676; } 
 
 #footer .foot_logo { margin-left: 50px;; margin-top: 100px; width: 250px; height: 250px; background: url(../img/Frame\ 2.png); background-size: contain; } 
 
