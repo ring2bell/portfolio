@@ -154,29 +154,29 @@
 
 .contant_3 .project_info_bottom .project_skill ul { margin-left: 80px; } 
 
-.contant_3 .project3 .mokup2 { position: relative; display: block; margin-top: 50px; } 
+.contant_3 .project4 .mokup2 { position: relative; display: block; margin-top: 50px; } 
 
-.contant_3 .project3 .mokup2 a { position: absolute; left: 10px; top: 10px; z-index: 2; } 
+.contant_3 .project4 .mokup2 a { position: absolute; left: 10px; top: 10px; z-index: 2; } 
 
-.contant_3 .project3 .mokup2 img { position: absolute; z-index: 0; border-radius: 8%; } 
+.contant_3 .project4 .mokup2 img { position: absolute; z-index: 0; border-radius: 8%; } 
 
-.contant_3 .project3 .project3_info { width: 650px; } 
+.contant_3 .project4 .project4_info { width: 650px; } 
 
-.contant_3 .project3 .info_top { margin-top: 30px; } 
+.contant_3 .project4 .info_top { margin-top: 30px; } 
 
-.contant_3 .project3 .info_top ul li { font-size: 18px; margin-bottom: 25px; color: #222; } 
+.contant_3 .project4 .info_top ul li { font-size: 18px; margin-bottom: 25px; color: #222; } 
 
-.contant_3 .project3 .info_top .left { width: 200px; } 
+.contant_3 .project4 .info_top .left { width: 200px; } 
 
-.contant_3 .project3 .info_top .right2{width: 250px; height: 115px; border-left: 1px solid #767676;}
+.contant_3 .project4 .info_top .right2{width: 250px; height: 115px; border-left: 1px solid #767676;}
 
-.contant_3 .project3 .info_top .right2 li{ font-size: 16px; margin-left: 40px; width: 173px; height: 42px; line-height: 42px; text-align: center; background: #FDC605; margin-bottom: 25px; color: #333; font-weight: 600;}
+.contant_3 .project4 .info_top .right2 li{ font-size: 16px; margin-left: 40px; width: 173px; height: 42px; line-height: 42px; text-align: center; background: #FDC605; margin-bottom: 25px; color: #333; font-weight: 600;}
 
-.contant_3 .project3 .info_top .right2 li:hover{transition: 0.3s; box-shadow: rgba(0, 0, 0, 0.24) 0px 5px 10px;}
+.contant_3 .project4 .info_top .right2 li:hover{transition: 0.3s; box-shadow: rgba(0, 0, 0, 0.24) 0px 5px 10px;}
 
-.contant_3 .project3 .info_story h3 { font-size: 28px; color: #222; font-weight: 600; margin-top: 25px; margin-bottom: 35px; } 
+.contant_3 .project4 .info_story h3 { font-size: 28px; color: #222; font-weight: 600; margin-top: 25px; margin-bottom: 35px; } 
 
-.contant_3 .project3 .info_story p { margin-left: 5px; font-size: 18px; color: #222; line-height: 35px; font-weight: 500; margin-bottom: 35px; } 
+.contant_3 .project4 .info_story p { margin-left: 5px; font-size: 18px; color: #222; line-height: 35px; font-weight: 500; margin-bottom: 35px; } 
 
 /*=======//contant_3 ======= */
 #footer .foot_info ul { margin-top: 80px; } 
